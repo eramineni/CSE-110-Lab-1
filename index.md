@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# Welcome to my GitHub
+## UCSD Computer Science and Engineering
+**My name is Eswar Ramineni** <br>
+*I am a student at UC San Diego*
+![UCSD](https://ucsdnews.ucsd.edu/news_uploads/Resized_Geisel_Library_08.31.jpg)
+> Eat, Sleep, Code
 
-You can use the [editor on GitHub](https://github.com/eramineni/CSE-110-Lab-1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+~~I am a first year~~
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+I am a Github user, and git has numerous commands such as:
 ```
+git checkout
+git push
+git commit
+```
+One of my favorite games is [2048](https://play2048.co/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+My Favorite Classes I have taken:
+- CSE 100
+- CSE 21
+- CSE 30
 
-### Jekyll Themes
+Order of Classes in Current Schedule:
+1. CSE 110
+2. CSE 134B
+3. CSE 101
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eramineni/CSE-110-Lab-1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Professors For These Classes:
+1. CSE 100
+   - Niema Moshiri
+2. CSE 21
+   - Miles Jones
+3. CSE 30
+   - Bryan Chin
+   
+There were three parts in this lab:
+- [x] Part 1
+- [x] Part 2
+- [x] Part 3
