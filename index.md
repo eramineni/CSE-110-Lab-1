@@ -5,7 +5,10 @@
 ![UCSD](https://ucsdnews.ucsd.edu/news_uploads/Resized_Geisel_Library_08.31.jpg)
 > Eat, Sleep, Code
 
+[Click Here For More Information](Website_Info)
+
 ~~I am a first year~~
+I am a second year student.
 
 I am a Github user, and git has numerous commands such as:
 ```
